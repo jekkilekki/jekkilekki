@@ -1,19 +1,16 @@
-### Hi there 👋
+### Aaron Snowberger
 
-<!--
-![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
--->
+<!-- ![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg) -->
 
-Aaron Snowberger is a designer, developer, and educator who currently resides in Jeonju, South Korea.
+Aaron Snowberger is a PhD candidate in Information Communication Engineering at [Hanbat National University](https://hanbat.ac.kr) in South Korea. He also holds degrees in Computer Science and Media Design. His research interests include Computer Vision, Machine Learning, and Natural Language Processing.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jekkilekki&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekkilekki&hide=hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jekkilekki&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekkilekki&hide=hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## My Content
+
 - [Blog](https://aaron.kr)
 - [Design Portfolio](https://aaronsnowberger.com)
-- [Twitter Stream](https://twitter.com/jekkilekki) 
 
 <!--
 **jekkilekki/jekkilekki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
